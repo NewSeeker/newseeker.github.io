@@ -1,2 +1,0 @@
-# newseeker.github.io
-blog
